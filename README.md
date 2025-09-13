@@ -26,7 +26,11 @@ Example output:
 📂 Project Structure
 
 iris-classifier-api/
+
 │── train_model.py      # Train and save the model
+
 │── iris_model.pkl      # Saved model
+
 │── app.py              # Flask API
+
 │── requirements.txt    # Dependencies
